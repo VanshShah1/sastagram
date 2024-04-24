@@ -12,6 +12,8 @@ def main(page: ft.Page):
                                                                 inactive_color="grey",
                                                                 active_color="white"
                                                                 )
+    def route_change():
+        
 
 
     page.add()
